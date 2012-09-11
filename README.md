@@ -1,3 +1,5 @@
+MODIFIED
+
 Mongoid Slug
 ============
 
